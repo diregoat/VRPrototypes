@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 27a68324d2bd6be4db3945b0cff1699a
+timeCreated: 1496780331
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - worldManager: {instanceID: 0}
+  - player: {instanceID: 0}
+  - currentLane: {instanceID: 0}
+  - newTrack: {instanceID: 0}
+  - track: {fileID: 1572530580488870, guid: 7e96ccd215769f64a9a31b0d304c71f0, type: 2}
+  - DW_bridge1: {fileID: 1748373626825722, guid: 40080e4f1dcf1c74685206a57366db41,
+      type: 2}
+  - DW_cell1: {fileID: 1456404934787370, guid: c1af39730648bf04dbacbf09f8d51c0d, type: 2}
+  - laneObject: {fileID: 1473589770241286, guid: b34f90ba7a96a054ab861de7bcdc4128,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

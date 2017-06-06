@@ -1,0 +1,155 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7619
+Begin MonoManager ReloadAssembly
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\AdvancedPrimitives.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\AdvancedPrimitives.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\P2T.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\P2T.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\ConditionalExpression.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\ConditionalExpression.dll into Unity Child Domain
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading V:\TowerHero\TowerHeroTest_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.029 seconds
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: V:\TowerHero\TowerHeroTest_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on OVRScreenFade
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Shader 'FX/FlatShadedWaterWithEdgeBlend': fallback shader 'Transparent/Diffuse' not found
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Crash!!!
+SymInit: Symbol-SearchPath: '.', symOptions: 534, UserName: 'Christian'
+OS-Version: 10.0.14393 () 0x300-0x1
+V:\TowerHero\TowerHeroTest.exe:TowerHeroTest.exe (002F0000), size: 19062784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.5.0.46319
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (77030000), size: 1585152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.479
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (76EA0000), size: 917504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (75790000), size: 1708032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.479
+C:\WINDOWS\System32\USER32.dll:USER32.dll (754F0000), size: 1437696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.576
+C:\WINDOWS\System32\win32u.dll:win32u.dll (76E80000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.51
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (6F8C0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (73FD0000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.206
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (76440000), size: 778240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.14393.0
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (75B60000), size: 1421312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.576
+C:\WINDOWS\System32\ole32.dll:ole32.dll (76500000), size: 958464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.576
+C:\WINDOWS\System32\combase.dll:combase.dll (75940000), size: 2166784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.576
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (762A0000), size: 917504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (734F0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (76160000), size: 790528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.82
+C:\WINDOWS\System32\SspiCli.dll:SspiCli.dll (73AF0000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.576
+C:\WINDOWS\System32\CRYPTBASE.dll:CRYPTBASE.dll (73AE0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (76E20000), size: 368640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\sechost.dll:sechost.dll (75E00000), size: 266240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (74000000), size: 286720 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (766E0000), size: 487424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (74080000), size: 20811776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.479
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (75DC0000), size: 221184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (76860000), size: 5693440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.479
+C:\WINDOWS\System32\powrprof.dll:powrprof.dll (76DD0000), size: 282624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (76760000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\shcore.dll:shcore.dll (75460000), size: 557056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\profapi.dll:profapi.dll (75CC0000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (76230000), size: 405504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.206
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (66E60000), size: 917504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (76F90000), size: 606208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.447
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (75D40000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (72850000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (668D0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (74050000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\DDRAW.dll:DDRAW.dll (66900000), size: 970752 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.447
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (72190000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (71C70000), size: 507904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.206
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (72CD0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (72C30000), size: 655360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (66890000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\NSI.dll:NSI.dll (76F80000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (73A60000), size: 479232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+V:\TowerHero\TowerHeroTest_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.0.1
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (76150000), size: 24576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (73260000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (75650000), size: 1265664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.479
+C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (72110000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.206
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (6E780000), size: 2289664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.479
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (6E6F0000), size: 540672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.479
+V:\TowerHero\TowerHeroTest_Data\Plugins\OVRPlugin.dll:OVRPlugin.dll (68EE0000), size: 1441792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.10.0.0
+C:\WINDOWS\SYSTEM32\WININET.dll:WININET.dll (65F90000), size: 2289664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.14393.479
+C:\WINDOWS\System32\wintrust.DLL:wintrust.DLL (75CD0000), size: 278528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.351
+C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (75FC0000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (75FD0000), size: 1560576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (720F0000), size: 77824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (720C0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (72170000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.576
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (75D20000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\gpapi.dll:gpapi.dll (6EFD0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT32_1.dll:LibOVRRT32_1.dll (68D70000), size: 1466368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.10.2.0
+C:\WINDOWS\SYSTEM32\pdh.dll:pdh.dll (6EB60000), size: 278528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.206
+C:\WINDOWS\SYSTEM32\DbgHelp.dll:DbgHelp.dll (6EBB0000), size: 1331200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14321.1024
+C:\WINDOWS\System32\perfos.dll:perfos.dll (6EF50000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\nvapi.dll:nvapi.dll (68390000), size: 3698688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 21.21.13.7619
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (73BC0000), size: 4239360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_7bb3101ce32915cc\nvwgf2um.dll:nvwgf2um.dll (6A380000), size: 20684800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 21.21.13.7619
+C:\WINDOWS\system32\nvspcap.dll:nvspcap.dll (689A0000), size: 1458176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.1.2.31
+C:\WINDOWS\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (735D0000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (767D0000), size: 540672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (64350000), size: 53248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (642E0000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (642D0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (64200000), size: 794624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (6F860000), size: 360448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (73060000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\PROPSYS.dll:PROPSYS.dll (6E370000), size: 1372160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.14393.0
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (6EE70000), size: 233472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (6F6C0000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (6EE60000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (6F7E0000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.479
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (6F710000), size: 847872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.576
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (6EE50000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (6F380000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (6EE40000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.14393.0
+C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.14393.447_none_89c64d28dafea4b9\comctl32.dll:comctl32.dll (732E0000), size: 2138112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.10.14393.447
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (137F0000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+
+========== OUTPUTING STACK TRACE ==================
+
+0x004DE8E4 (TowerHeroTest) physx::shdfnd::ErrorHandler::getCallbackCount
+0x0092C66A (TowerHeroTest) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x0092CB28 (TowerHeroTest) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x0092CBC9 (TowerHeroTest) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x00924279 (TowerHeroTest) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x009A8087 (TowerHeroTest) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x00A474F8 (TowerHeroTest) physx::shdfnd::Foundation::getErrorMutex
+0x00A7FDB8 (TowerHeroTest) physx::shdfnd::Foundation::getErrorMutex
+0x76EB62C4 (KERNEL32) BaseThreadInitThunk
+0x77090FD9 (ntdll) RtlSubscribeWnfStateChangeNotification
+0x77090FA4 (ntdll) RtlSubscribeWnfStateChangeNotification
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
